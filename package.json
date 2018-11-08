@@ -1,0 +1,14 @@
+{
+    "name": "allergic-to-pork",
+    "version": "1.0.0",
+    "description": "I need this to be translated everywhere I go in the world.",
+    "main": "translate.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Su Yon Sohn",
+    "license": "ISC",
+    "dependencies": {
+        "@google-cloud/translate": "^2.1.2"
+    }
+}
